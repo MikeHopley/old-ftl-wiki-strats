@@ -8,7 +8,7 @@ This is an archive copy of the [ship strategies](https://ftl.fandom.com/wiki/Shi
 
 The content had become a fun joke in the FTL community, and I think it would be a shame to lose that. So here it is, unedited except for stripping out stuff like images and links.
 
-Some of the advice is fine, so just because an idea is included here doesn't necessarily make it wrong. A lot of the advice is bunk though, and there's a complete lack of focus or editing.
+Some of the advice is fine, so just because an idea is included here doesn't necessarily make it wrong. A lot of the advice is bunk though.
 
 
 ## Kestrel Cruiser
