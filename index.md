@@ -4,7 +4,7 @@
 
 ## History
 
-This is an archive copy of the [ship strategies](https://ftl.fandom.com/wiki/Ship_Strategies) page from the FTL wiki. That page was built up slowly over many years, by many different players, and became a giant mess. Fixing it would have been a nightmare task with zero benefit, since multiple good guides exist elsewhere. So instead, we just deleted the content.
+This is an archive copy of the [ship strategies](https://ftl.fandom.com/wiki/Ship_Strategies) page from the FTL wiki. That page was built up slowly over many years, by many different players, and became a giant mess. Fixing it would have been a nightmare task with zero benefit, since good guides exist elsewhere. So instead, we just deleted the content.
 
 The content had become a fun joke in the FTL community, and I think it would be a shame to lose that. So here it is, unedited except for stripping out stuff like images and links.
 
