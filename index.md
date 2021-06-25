@@ -6,7 +6,7 @@
 
 <p>Don't follow the advice here. Much of it is bad.</p>
     
-<p>Go read my <a href="https://ftl-ships-guide.netlify.app/">ships guide</a> instead.
+<p>Go read my <a href="https://ftl-ships-guide.netlify.app/">ships guide</a> instead.</p>
 
 </div>
 
