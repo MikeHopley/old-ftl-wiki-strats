@@ -5,7 +5,7 @@
 <div class="message danger">
 <p>Be careful with the advice here. Much of it is very bad.</p>
 
-<p>I recommended <a href="https://ftl-ships-guide.netlify.app/">my ships guide</a> instead.</p>
+<p>I recommend <a href="https://ftl-ships-guide.netlify.app/">my ships guide</a> instead.</p>
 </div>
 
 ## Kestrel Cruiser
