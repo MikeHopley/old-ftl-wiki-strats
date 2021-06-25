@@ -35,4 +35,7 @@
 .message p {
 	margin-bottom: 0;
 }
+.message p+p {
+	margin-top: 16px;
+}
 
