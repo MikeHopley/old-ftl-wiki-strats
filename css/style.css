@@ -29,7 +29,6 @@
 	border-color: hsl(var(--color-error));
 	background: hsl(var(--color-error-lightest));
 	margin-bottom: 16px;
-	font-weight: bold;
 	max-width: 25em;
 }
 .message p {
