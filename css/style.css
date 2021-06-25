@@ -1,4 +1,15 @@
 :root {
+--rose-900: #881337;
+--rose-800: #9F1239;
+   --rose-700: #BE123C;
+   --rose-600: #E11D48;
+   --rose-500: #F43F5E;
+   --rose-400: #FB7185;
+   --rose-300: #FDA4AF;
+   --rose-200: #FECDD3;
+   --rose-100: #FFE4E6;
+   --rose-50: #FFF1F2;
+	
   --color-main-h: 209;
   --color-main-s: 66%;
   --color-main-l: 45%;
@@ -21,15 +32,12 @@
 
 .message {
 	border-left: 4px solid hsl(var(--color-main));
-/* 	background: hsl(var(--color-main-lightest)); */
 	padding: 0.5rem 1rem;
-/* 	border-radius: 3px; */
 }
 .message.danger {
 	border-color: hsl(var(--color-error));
-/* 	background: hsl(var(--color-error-lightest)); */
+	color: var(--rose-900);
 	margin-bottom: 16px;
-/* 	max-width: 25em; */
 }
 .message p {
 	margin-bottom: 0;
