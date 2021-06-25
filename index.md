@@ -3,11 +3,9 @@
 # FTL wiki ship strategies
 
 <div class="message danger">
-
-<p>Don't follow the advice here. Much of it is bad.</p>
+<p><strong>Don't follow the advice here. Much of it is bad.</strong></p>
     
 <p>Go read my <a href="https://ftl-ships-guide.netlify.app/">ships guide</a> instead.</p>
-
 </div>
 
 This is an archive copy of the [ship strategies](https://ftl.fandom.com/wiki/Ship_Strategies) page from the FTL wiki. That page was built up slowly over many years, by many different players, and became a giant mess. Fixing it would have been a nightmare task with zero benefit, since good guides exist elsewhere. So instead, we just deleted the content.
