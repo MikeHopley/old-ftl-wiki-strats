@@ -20,16 +20,16 @@
 }
 
 .message {
-	border: 1px solid hsl(var(--color-main));
-	background: hsl(var(--color-main-lightest));
+	border-left: 4px solid hsl(var(--color-main));
+/* 	background: hsl(var(--color-main-lightest)); */
 	padding: 0.5rem 1rem;
-	border-radius: 3px;
+/* 	border-radius: 3px; */
 }
 .message.danger {
 	border-color: hsl(var(--color-error));
-	background: hsl(var(--color-error-lightest));
+/* 	background: hsl(var(--color-error-lightest)); */
 	margin-bottom: 16px;
-	max-width: 25em;
+/* 	max-width: 25em; */
 }
 .message p {
 	margin-bottom: 0;
