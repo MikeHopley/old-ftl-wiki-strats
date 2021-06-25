@@ -31,13 +31,14 @@
 }
 
 .message {
-	border-left: 4px solid hsl(var(--color-main));
+	border-left: 4px solid black;
 	padding: 0.5rem 1rem;
 }
 .message.danger {
-	border-color: hsl(var(--color-error));
-	color: var(--rose-900);
+	border-color: hsl(var(--rose-700));
+	color: var(--rose-700);
 	margin-bottom: 16px;
+	font-weight: bold;
 }
 .message p {
 	margin-bottom: 0;
