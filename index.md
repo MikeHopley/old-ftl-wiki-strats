@@ -1,8 +1,8 @@
+<link rel="stylesheet" href="css/style.css" />
+
 # FTL wiki ship strategies
 
-**Don't follow the advice on this page, it's bad. Go read my [ships guide](https://ftl-ships-guide.netlify.app/) instead.**
-
-## History
+<p><strong>Don't follow the advice on this page, it's bad.</strong> Go read my [ships guide](https://ftl-ships-guide.netlify.app/) instead.</p>
 
 This is an archive copy of the [ship strategies](https://ftl.fandom.com/wiki/Ship_Strategies) page from the FTL wiki. That page was built up slowly over many years, by many different players, and became a giant mess. Fixing it would have been a nightmare task with zero benefit, since good guides exist elsewhere. So instead, we just deleted the content.
 
