@@ -1,3 +1,31 @@
-strong {
-  colour: red;
+:root {
+  --color-main-h: 209;
+  --color-main-s: 66%;
+  --color-main-l: 45%;
+
+  --color-main: var(--color-main-h), var(--color-main-s), var(--color-main-l);
+  --color-main-light: var(--color-main-h), 100%, 70%;
+  --color-main-lighter: var(--color-main-h), 100%, 85%;
+  --color-main-lightest: var(--color-main-h), 100%, 95%;
+  --color-main-intense: var(--color-main-h), 100%, var(--color-main-l);
+  --color-main-muted: var(--color-main-h), 100%, 25%;
+
+  --color-error-h: 340;
+  --color-error: var(--color-error-h), 100%, 45%;
+  --color-error-lightest: var(--color-error-h), 100%, 95%;
+
+  --color-success-h: 160;
+  --color-success: var(--color-success-h), 100%, 30%;
+  --color-success-lightest: var(--color-success-h), 100%, 90%;
+}
+
+.message {
+	border: 1px solid hsl(var(--color-main));
+	background: hsl(var(--color-main-lightest));
+	padding: 0.5rem 1rem;
+	border-radius: 3px;
+}
+.message.danger {
+	border-color: hsl(var(--color-error));
+	background: hsl(var(--color-error-lightest));
 }
