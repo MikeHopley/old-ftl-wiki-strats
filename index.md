@@ -1,9 +1,11 @@
 <link rel="stylesheet" href="css/style.css" />
 
-# FTL wiki ship strategies
+# FTL wiki ship strategies, archived
 
 <div class="message danger">
 <p><strong>Be careful with the advice here. Much of it is very bad.</strong></p>
+
+<p>I recommended <a href="https://ftl-ships-guide.netlify.app/">my ships guide</a> instead.</p>
 </div>
 
 ## Kestrel Cruiser
