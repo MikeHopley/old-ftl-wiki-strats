@@ -3,7 +3,7 @@
 # FTL wiki ship strategies, archived
 
 <div class="message danger">
-<p><strong>Be careful with the advice here. Much of it is very bad.</strong></p>
+<p>Be careful with the advice here. Much of it is very bad.</p>
 
 <p>I recommended <a href="https://ftl-ships-guide.netlify.app/">my ships guide</a> instead.</p>
 </div>
